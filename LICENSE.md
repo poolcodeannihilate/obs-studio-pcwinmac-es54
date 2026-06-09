@@ -1,4 +1,4 @@
-# 
+# 顶级 OBS Studio 插件 Mac OS版 | 自定义 OBS Studio 插件 PC Windows版。集成 音高变化 和 绿幕，跨平台性能最大化。
 
 
 
